@@ -34,6 +34,11 @@ namespace HepsiBurada
 
         private static void displayToConsole(string commandString, string roverReports)
         {
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("En iyi yazılımcı tembel yazılımcıdır :)");
+            Console.WriteLine("");
+            Console.WriteLine("");
             Console.WriteLine("Input:");
             Console.WriteLine(commandString);
             Console.WriteLine(Environment.NewLine);

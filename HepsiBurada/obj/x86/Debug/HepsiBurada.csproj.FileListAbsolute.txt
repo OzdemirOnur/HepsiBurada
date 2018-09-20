@@ -1,0 +1,11 @@
+C:\Projeler\HepsiBurada\HepsiBurada\bin\Debug\HepsiBurada.exe.config
+C:\Projeler\HepsiBurada\HepsiBurada\bin\Debug\HepsiBurada.exe
+C:\Projeler\HepsiBurada\HepsiBurada\bin\Debug\HepsiBurada.pdb
+C:\Projeler\HepsiBurada\HepsiBurada\bin\Debug\Autofac.Configuration.dll
+C:\Projeler\HepsiBurada\HepsiBurada\bin\Debug\Autofac.dll
+C:\Projeler\HepsiBurada\HepsiBurada\bin\Debug\Autofac.xml
+C:\Projeler\HepsiBurada\HepsiBurada\obj\x86\Debug\HepsiBurada.csprojResolveAssemblyReference.cache
+C:\Projeler\HepsiBurada\HepsiBurada\obj\x86\Debug\HepsiBurada.Properties.Resources.resources
+C:\Projeler\HepsiBurada\HepsiBurada\obj\x86\Debug\HepsiBurada.csproj.GenerateResource.Cache
+C:\Projeler\HepsiBurada\HepsiBurada\obj\x86\Debug\HepsiBurada.exe
+C:\Projeler\HepsiBurada\HepsiBurada\obj\x86\Debug\HepsiBurada.pdb
